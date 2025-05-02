@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" height="100">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Icon" height="100">
 </p>
 
 <h1 align="center">🧮 Calculadora em Python</h1>
